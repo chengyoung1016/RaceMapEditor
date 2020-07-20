@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "RaceMapEditor",
+  "id": "d371280c-7bcb-49ad-9c91-a45cd5cb6e06",
+  "version": "2.4.0",
+  "isNew": false
+}
